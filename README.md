@@ -4,7 +4,7 @@ Network security tool for preventing Bruteforce and Dictionary attack (http://rn
 
 
 Overview
-========
+--------
 Valkyrie is a free and open source network security tool for prevents Bruteforce and Dictionary attack.
 Valkyrie has many features, including:
 
@@ -15,17 +15,17 @@ Valkyrie has many features, including:
 
 
 License
-=======
+-------
 Valkyrie is published under a GPLv3 license, Please read 'COPYING' file.
 
 
 Disclamer
-=========
+---------
 Valkyrie is Free Software but no Any Warranty, The entire risk of failure, damage and loss after using the program is not our responsibility.
 
 
 Dependency
-==========
+----------
 Valkyrie needs dependency package, so You'll need:
 
 * Larry Wall's Perl >= 5.12.3
@@ -38,15 +38,15 @@ Valkyrie needs dependency package, so You'll need:
 
 
 Install & Howto
-===============
+---------------
 For installation and usage you can read the 'HOWTO' file.
 
 
 Platform
-========
+--------
 It's been tested on GNU/Linux using Slackware, Debian, Ubuntu, Backtrack, etc.
 
 
 Acknowledgements
-================
+----------------
 Thanks to everyone who helped me building this program.
